@@ -1,0 +1,32 @@
+{
+  "name": "Liri-node-app",
+  "version": "1.0.0",
+  "description": "Liri, not Siri. Node app",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankstee/Liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shankstee/Liri-node-app/issues"
+  },
+  "homepage": "https://github.com/shankstee/Liri-node-app#readme",
+  "devDependencies": {
+    "dotenv": "^6.1.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "install": "^0.12.2",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "npm": "^6.4.1",
+    "omdbapi": "^2.0.1",
+    "request": "^2.88.0"
+  }
+}
